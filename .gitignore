@@ -1,0 +1,6 @@
+data.csv
+data_processed.csv
+embeddings.pt
+.ipynb_checkpoints/
+__pycache__/
+*.lock*
